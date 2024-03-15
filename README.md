@@ -13,21 +13,23 @@
 
 Question Answer :
 
-    ![Screenshot](assets-report/jawab-soal1.PNG)
+![Screenshot](assets-report/jawab-soal1.PNG)
     - In the problem above, what I encountered was that we only need to define the image in the "profile.tsx" file. Here we also set the image size according to what we want. And also what I learned is that it is easy to call the component (here the image in the profile) with the profile function in the "profile.tsx" file.
     
-    ![Screenshot](assets-report/jawab-soal1,a.PNG)
+![Screenshot](assets-report/jawab-soal1,a.PNG)
     - The problem I encountered was that it was difficult to display the desired image. The solution I did was to set "next.config.js", delete "port: ", "pathname: " and only use "protocol: " and "hostname: ".
 
 
 ### Soal 2
 ## Tangkap hasilnya dan buat laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya sekarang? Jangan lupa push dengan pesan komit: "W03: Jawaban pertanyaan 2".
 
-![Screenshot](assets-report/01.png)
+![Screenshot](assets-report/03-fwm-soal02a.PNG)
+![Screenshot](assets-report/03-fwm-soal02b.PNG)
 
 Question Answer :
-    ![Screenshot](assets-report/jawaban-soal2.png)
-    asda
+![Screenshot](assets-report/jawaban-soal2.png)
+    In answering this practical 2, I created a "gallery.tsx" component which stores 3 images, and these images are components that I took from "profile.tsx". Then I brought up the "function Gallery" component by importing it into "page.tsx" using the named export method. In below image is an import code that i mention it.
+![Screenshot](assets-report/jawaban-soal2-a.png)
 
 
 ### Soal 3
