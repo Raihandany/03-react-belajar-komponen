@@ -72,16 +72,4 @@ Question Answer :
 ![Screenshot](assets-report/jawab-soal6-b.PNG)
     In practical question 6, I found an error if I followed the code according to question number 6. I changed it to make "const imgUrl:" which includes "imageId: '7vQD0fP'", "imageSize: 's'" and "const baseUrl = 'https: //i.imgur.com/'". I did this because I thought we couldn't define the source image data directly into image syntax. So I created a const imageUrl that contains all the data from the image source code link and then directly entered it into the " image src: " syntax. You can see the results of my work in the code above.
 
-### Soal 7
-## Jika kode di atas terdapat error, silakan diperbaiki. Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 7".
-
-![Screenshot](assets-report/03-fwm-soal7-a.PNG)
-![Screenshot](assets-report/03-fwm-soal7-b.PNG)
-![Screenshot](assets-report/03-fwm-soal7-c.PNG)
-
-Question Anwer :
-![Screenshot](assets-report/jawab-soal7-a.PNG)
-![Screenshot](assets-report/jawab-soal7-b.PNG)
-
-    In practical question 7 I have an error, I found that the question code above lacked a "utils.tsx" file, this can be seen by the question code which does "import utils.tsx". The solution I provide is to create a code file "utils.tsx" which contains the getImageUrl function which functions to get the required image. Code and results can be seen in the image above.
 
