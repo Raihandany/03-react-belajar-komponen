@@ -4,7 +4,7 @@ import { Gallery } from "@/components/gallery";
 import TodoList1 from "@/components/sidebar";
 import Bio from "@/components/sidebar";
 import TodoList from "@/components/todolist";
-//import MyGallery from "@/components/mygallery";
+import MyGallery from "@/components/mygallery";
 
 
 export default function Home() {
@@ -39,9 +39,9 @@ export default function Home() {
       </div>
 
       {/* Practicum Soal 7 */}
-      {/* <div>
+      <div>
         <MyGallery/>
-      </div> */}
+      </div>
 
     </div>
   );
