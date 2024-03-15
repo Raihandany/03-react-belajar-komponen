@@ -11,13 +11,12 @@ export default function Home() {
 
       {/*Practicum Soal 1*/}
       <div style={{ display: 'flex', justifyContent: 'space-around', width: '80%' }}>
-        {/* <Profile/>
         <Profile/>
-        <Profile/> */}
+        <Profile/>
+        <Profile/>
       </div>
       
       {/*Practicum Soal 2*/}
-
       <div style={{ display: 'flex', justifyContent: 'space-around', width: '80%' }}>
         {/* <Gallery/> */}
       </div>

@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Laporan Praktikum-3
 
-## Getting Started
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  2141720166|
+| Nama |  Raihan Dany Radhinnur |
+| Kelas | TI - 3I |
 
-First, run the development server:
+### Soal 1
+## Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan komponen Profile() yang tadi sudah dibuat dari langkah 1 tersebut! Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana Anda solve error tersebut? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 1".
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Screenshot](assets-report/soal1.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Question Answer :
+    ![Screenshot](assets-report/jawaban-soal1.png)
+    asdas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Soal 2
+## Tangkap hasilnya dan buat laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya sekarang? Jangan lupa push dengan pesan komit: "W03: Jawaban pertanyaan 2".
 
-## Learn More
+![Screenshot](assets-report/01.png)
 
-To learn more about Next.js, take a look at the following resources:
+Question Answer :
+    ![Screenshot](assets-report/jawaban-soal2.png)
+    asda
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Soal 3
+## Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 3".
 
-## Deploy on Vercel
+![Screenshot](assets-report/soal2.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Question Answer :
+    ![Screenshot](assets-report/jawaban-soal3.png)
+    asdasd
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Soal 4
+## Kode di atas masih terdapat error, silakan diperbaiki. Jangan lupa push dengan pesan commit: "W03: Jawaban soal 4".
+
+![Screenshot](assets-report/soal3.png)
+
+Question Answer :
+    ![Screenshot](assets-report/jawaban-soal4.png)
+    asdasd
+
+### Soal 5
+## Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person. Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 5".
+
+Question Answer :
+    ![Screenshot](assets-report/jawaban-soal5.png)
+    asdasd
+
+
+### Soal 6
+## Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 6".
+
+Question Answer : 
+    ![Screenshot](assets-report/jawaban-soal6.png)
+    asdasd
