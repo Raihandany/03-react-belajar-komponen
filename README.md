@@ -38,24 +38,24 @@ Question Answer :
 ![Screenshot](assets-report/03-fwm-soal03.PNG)
 
 Question Answer :
-    ![Screenshot](assets-report/jawaban-soal3.PNG)
+![Screenshot](assets-report/jawaban-soal3.PNG)
     In practical work 3 I solved the problem above by changing " div class="info" " with " div className="info" " and also "p class="summary" " with " p className="summary" " This is the correct way to specify a class in JSX, as class is a reserved keyword in JavaScript. and also change the position of </i> with </b>, this is necessary because <i> needs to end directly with </i>.
 
 
 ### Soal 4
 ## Kode di atas masih terdapat error, silakan diperbaiki. Jangan lupa push dengan pesan commit: "W03: Jawaban soal 4".
 
-![Screenshot](assets-report/soal3.png)
+![Screenshot](assets-report/03-fwm-soal4.PNG)
 
 Question Answer :
-    ![Screenshot](assets-report/jawaban-soal4.png)
-    asdasd
+![Screenshot](assets-report/jawaban-soal4.PNG)
+    In working on problem 4, I found an error in " <h1>{person}'s Todos</h1> " in the code that wanted to call the data contained in the data " name ". I changed it to "<h1>{person.name}'s Todos</h1>" and it works.
 
 ### Soal 5
 ## Buka file src/components/todolist.tsx lakukan ekstrak URL gambar ke dalam objek person. Capture hasilnya dan buatlah laporan di README.md. Apakah ada perbedaan pada tampilan web saat ini? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 5".
 
 Question Answer :
-    ![Screenshot](assets-report/jawaban-soal5.png)
+![Screenshot](assets-report/jawaban-soal5.png)
     
 
 
@@ -63,5 +63,5 @@ Question Answer :
 ## Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 6".
 
 Question Answer : 
-    ![Screenshot](assets-report/jawaban-soal6.png)
+![Screenshot](assets-report/jawaban-soal6.png)
     asdasd
