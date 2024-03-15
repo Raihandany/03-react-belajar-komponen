@@ -14,12 +14,13 @@ export default function Home() {
         <Profile/>
         <Profile/>
         <Profile/>
+        
       </div>
       
       {/*Practicum Soal 2*/}
-      <div style={{ display: 'flex', justifyContent: 'space-around', width: '80%' }}>
-        {/* <Gallery/> */}
-      </div>
+      {/* <div style={{ display: 'flex', justifyContent: 'space-around', width: '80%' }}>
+         <Gallery/> 
+      </div> */}
     </div>
   );
 }

@@ -13,7 +13,8 @@
 
 Question Answer :
     ![Screenshot](assets-report/jawaban-soal1.png)
-    asdas
+    - In the problem above, what I encountered was that we only need to define the image in the "profile.tsx" file. Here we also set the image size according to what we want. And also what I learned is that it is easy to call the component (here the image in the profile) with the profile function in the "profile.tsx" file.
+    - The problem I encountered was that it was difficult to display the desired image. The solution I did was to set "next.config.js", delete "port: ", "pathname: " and only use "protocol: " and "hostname: ".
 
 
 ### Soal 2
@@ -50,7 +51,7 @@ Question Answer :
 
 Question Answer :
     ![Screenshot](assets-report/jawaban-soal5.png)
-    asdasd
+    
 
 
 ### Soal 6
