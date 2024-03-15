@@ -27,19 +27,19 @@ Question Answer :
 ![Screenshot](assets-report/03-fwm-soal02b.PNG)
 
 Question Answer :
-![Screenshot](assets-report/jawaban-soal2.png)
+![Screenshot](assets-report/jawaban-soal2.PNG)
     In answering this practical 2, I created a "gallery.tsx" component which stores 3 images, and these images are components that I took from "profile.tsx". Then I brought up the "function Gallery" component by importing it into "page.tsx" using the named export method. In below image is an import code that i mention it.
-![Screenshot](assets-report/jawaban-soal2-a.png)
+![Screenshot](assets-report/jawaban-soal2-a.PNG)
 
 
 ### Soal 3
 ## Silakan perbaiki kode JSX berikut ini. Anda boleh menggunakan konverter atau perbaiki secara manual. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan mengapa error itu bisa terjadi? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 3".
 
-![Screenshot](assets-report/soal2.png)
+![Screenshot](assets-report/03-fwm-soal03.PNG)
 
 Question Answer :
-    ![Screenshot](assets-report/jawaban-soal3.png)
-    asdasd
+    ![Screenshot](assets-report/jawaban-soal3.PNG)
+    In practical work 3 I solved the problem above by changing " div class="info" " with " div className="info" " and also "p class="summary" " with " p className="summary" " This is the correct way to specify a class in JSX, as class is a reserved keyword in JavaScript. and also change the position of </i> with </b>, this is necessary because <i> needs to end directly with </i>.
 
 
 ### Soal 4
