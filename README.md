@@ -9,13 +9,14 @@
 ### Soal 1
 ## Ubah isi kode Home() sehingga dapat tampil seperti berikut dengan memanfaatkan komponen Profile() yang tadi sudah dibuat dari langkah 1 tersebut! Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana Anda solve error tersebut? Jangan lupa push dengan pesan commit: "W03: Jawaban soal 1".
 
-![Screenshot](assets-report/03-fwm-soal01.png)
+![Screenshot](assets-report/03-fwm-soal01.PNG)
 
 Question Answer :
-    ![Screenshot](assets-report/jawab-soal1.png)
+
+    ![Screenshot](assets-report/jawab-soal1.PNG)
     - In the problem above, what I encountered was that we only need to define the image in the "profile.tsx" file. Here we also set the image size according to what we want. And also what I learned is that it is easy to call the component (here the image in the profile) with the profile function in the "profile.tsx" file.
     
-    ![Screenshot](assets-report/jawab-soal1,a.png)
+    ![Screenshot](assets-report/jawab-soal1,a.PNG)
     - The problem I encountered was that it was difficult to display the desired image. The solution I did was to set "next.config.js", delete "port: ", "pathname: " and only use "protocol: " and "hostname: ".
 
 
